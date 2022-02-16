@@ -21,3 +21,15 @@ SELECT * FROM student;
 ```sql
 DROP TABLE student;
 ```
+
+4. ```NOT NULL``` means a var needs specific value.
+
+```sql
+name VARCHAR(20) NOT NULL
+```
+
+5. ```UNIQUE``` means values can't be duplicated
+
+```sql
+major VARCHAR(20) UNIQUE
+```
