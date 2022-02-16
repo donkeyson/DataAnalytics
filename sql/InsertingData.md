@@ -15,3 +15,9 @@ INSERT INTO student(student_id, name) VALUES(3, 'Claire');
 ```sql
 SELECT * FROM student;
 ```
+
+3. you can drop the tabe by using ```DROP```
+
+```sql
+DROP TABLE student;
+```
