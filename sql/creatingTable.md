@@ -10,7 +10,7 @@ you can use 6 var
 
 ***
 
-##Student Table
+## Student Table
 ```sql
 CREATE TABLE student (
    student_id INT PRIMARY KEY,
