@@ -33,3 +33,15 @@ name VARCHAR(20) NOT NULL
 ```sql
 major VARCHAR(20) UNIQUE
 ```
+
+6. ```DEFAULT``` is Defult value
+
+```sql
+major VARCHAR(20) DEFAULT 'undecided'
+```
+
+7. you don't have to insert id when using ```AUTO_INCREMENT```
+
+```sql
+student_id INT AUTO_INCREMENT
+```
