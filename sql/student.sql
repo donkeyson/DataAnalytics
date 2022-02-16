@@ -10,4 +10,9 @@ INSERT INTO student VALUES(2, 'KATE', 'Sociology');
 INSERT INTO student(student_id, name) VALUES(3, 'Claire');
 
 DESCRIBE giraffe.student;
+
 SELECT * FROM student;
+
+UPDATE student
+SET major = 'BIO'
+WHERE major = 'Biology';
