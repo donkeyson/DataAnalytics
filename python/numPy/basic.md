@@ -36,7 +36,7 @@ c.dtype
 ***
 
 
-###Dimentions and shapes
+### Dimentions and shapes
 ```python
 a = np.array([
   [1, 2, 3],
