@@ -1,4 +1,4 @@
-#NumPy Basic
+# NumPy Basic
 
 
 ### Basic Numpy Arrays
